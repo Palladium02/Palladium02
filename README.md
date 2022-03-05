@@ -15,7 +15,8 @@ Germany.
 
 ## Github Stats
 
-[![Palladium02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palladium02)](https://github.com/Palladium02)
+[![Palladium02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palladium02#gh-light-mode-only)](https://github.com/Palladium02)
+[![Palladium02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palladium02&theme=radical#gh-dark-mode-only)](https://github.com/Palladium02)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palladium02)](https://github.com/Palladium02/github-readme-stats)
 
