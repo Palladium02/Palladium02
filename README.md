@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello folks. I am Sean a third year computer science student from Germany.<br>Currently I am working on three different projects:<br>- honeybadger (nodejs backend library)<br>- redpawn (chess engine)<br>- xenomorph (schema validation library)
 
+A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are. - Elliot Alderson
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/central_programming_unit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18057908) 
 
